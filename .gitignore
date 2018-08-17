@@ -1,2 +1,6 @@
+# Dependencies and Project Files
 node_modules/
 .idea/
+
+# Compiled libraries
+/lib
